@@ -1,1 +1,11 @@
+本地解析pdf转文本 PDFParser
+文档导出 Writter 模块
+大模型LLMs 接入模块
+参数解析 ArgParser
+日志模块 Logger
+提示词 Prompt
 
+
+本地解析pdf转文本 PDFParser
+chatgpt翻译文本
+重新生成pdf文件
